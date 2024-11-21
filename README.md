@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Hussain
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning and exploring React.js.
+- 😄 I enjoy experimenting with UI/UX design.
+- 📫 Reach me at hussainahmadd34@gmail.com
